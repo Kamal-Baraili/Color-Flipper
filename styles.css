@@ -26,6 +26,7 @@ body {
 }
 
 .main_text {
+  width: 43%;
   background-color: black;
   margin-bottom: 3rem;
   padding: 0.25rem 0.5rem;
@@ -35,6 +36,11 @@ body {
 .main_text h2 {
   font-size: 1.25rem;
   color: white;
+}
+
+.main_text h2 span {
+  margin-left: 0.25rem;
+  color: rgb(32, 169, 223);
 }
 
 #btn {
